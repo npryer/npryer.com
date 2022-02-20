@@ -1,0 +1,24 @@
+alerts:
+- rule: DEPLOYMENT_FAILED
+- rule: DOMAIN_FAILED
+name: cnpryer
+region: nyc
+services:
+- build_command: pip install -r requirements.txt -r requirements-dev.txt
+  environment_slug: python
+  envs:
+  - key: FLASK_APP
+    scope: RUN_AND_BUILD_TIME
+    value: app
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: cnpryer/cnpryer.com
+  http_port: 5000
+  instance_count: 1
+  instance_size_slug: basic-xxs
+  name: cnpryer
+  routes:
+  - path: /
+  run_command: gunicorn --worker-tmp-dir /dev/shm app
+  source_dir: /

@@ -4,3 +4,4 @@ Flask-Bootstrap
 Jinja2
 Mako
 Werkzeug
+gunicorn
