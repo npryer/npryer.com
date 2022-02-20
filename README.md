@@ -1,3 +1,3 @@
 # cnpryer.com
 
-My personal website.
+My personal website <https://cnpryer.com>.
