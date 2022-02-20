@@ -1,4 +1,4 @@
-from flask import redirect, render_template, send_from_directory
+from flask import redirect, render_template, send_from_directory, flash
 from app.main import bp
 from app.utils import url_for
 from app.constants import socials
@@ -15,6 +15,10 @@ def favicon():
 @bp.route("/", methods=["GET"])
 @bp.route("/index", methods=["GET"])
 def index():
+    flash(
+        "Warning: On mobile devices the resume may look distorted. "
+        "Use the dropdown link instead."
+    )
     return render_template("index.html", title="cnpryer.com")
 
 
