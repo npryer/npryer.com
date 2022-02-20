@@ -13,6 +13,12 @@
     </ul>
 </div>
 <div class="col-md-offset-1">
-    <embed src="{{ url_for('static', filename='Chris-Pryer-Resume.pdf') }}" width="100%" height="1000px" />
+    <object data="{{ url_for('static', filename='Chris-Pryer-Resume.pdf') }}" type="application/pdf" width="100%"
+        height="1000px">
+        <p>It appears you don't have a PDF plugin for this browser.
+            You can <a href="{{ url_for('static', filename='Chris-Pryer-Resume.pdf') }}">click here</a> to
+            download the PDF file.</a>
+        </p>
+    </object>
 </div>
 {% endblock %}
