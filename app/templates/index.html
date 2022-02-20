@@ -4,12 +4,12 @@
 {% block app_content %}
 <div class="col-lg-6 col-lg-offset-4 col-md-6 col-md-offset-3 col-xs-12">
     <ul>
-        <li style="display: inline-block;"><a href="https://github.com/cnpryer">GitHub</a></li>
-        <li style="display: inline-block;"><a href="https://devpost.com/cnp">Devpost</a></li>
-        <li style="display: inline-block;"><a href="https://instagram.com/cnp.ig">Instagram</a></li>
-        <li style="display: inline-block;"><a href="https://twitter.com/cnpryer">Twitter</a></li>
-        <li style="display: inline-block;"><a href="https://cnpryer.medium.com">Medium</a></li>
-        <li style="display: inline-block;"><a href="https://linkedin.com/in/cnpryer">LinkedIn</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.github') }}">GitHub</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.devpost') }}">Devpost</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.instagram') }}">Instagram</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.twitter') }}">Twitter</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.medium') }}">Medium</a></li>
+        <li style="display: inline-block;"><a href="{{ url_for('main.linkedin') }}">LinkedIn</a></li>
     </ul>
 </div>
 <div class="col-md-offset-1">
