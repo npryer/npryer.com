@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+<div class="col-lg-6 col-lg-offset-4 col-md-6 col-md-offset-3 col-xs-12">
+    <ul>
+        <li style="display: inline-block;"><a href="https://github.com/cnpryer">GitHub</a></li>
+        <li style="display: inline-block;"><a href="https://devpost.com/cnp">Devpost</a></li>
+        <li style="display: inline-block;"><a href="https://instagram.com/cnp.ig">Instagram</a></li>
+        <li style="display: inline-block;"><a href="https://twitter.com/cnpryer">Twitter</a></li>
+        <li style="display: inline-block;"><a href="https://cnpryer.medium.com">Medium</a></li>
+        <li style="display: inline-block;"><a href="https://linkedin.com/in/cnpryer">LinkedIn</a></li>
+    </ul>
+</div>
+<div class="col-md-offset-2">
+    <embed src="{{ url_for('static', filename='Chris-Pryer-Resume.pdf') }}" width="800px" height="1000px" />
+</div>
+{% endblock %}
