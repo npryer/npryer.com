@@ -4,7 +4,7 @@ alerts:
 name: cnpryer
 region: nyc
 services:
-- build_command: pip install -r requirements.txt -r requirements-dev.txt
+- build_command: pip install -r requirements.txt
   environment_slug: python
   envs:
   - key: FLASK_APP
