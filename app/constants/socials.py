@@ -1,6 +1,0 @@
-GITHUB_URL = "https://github.com/cnpryer"
-TWITTER_URL = "https://twitter.com/cnpryer"
-INSTAGRAM_URL = "https://instagram.com/cnp.ig"
-DEVPOST_URL = "https://devpost.com/cnp"
-MEDIUM_URL = "https://cnpryer.medium.com"
-LINKEDIN_URL = "https://linkedin.com/in/cnpryer"
