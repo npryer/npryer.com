@@ -9,4 +9,4 @@
 - [Twitter](https://twitter.com/cnpryer)
 - [Instagram](https://instagram.com/cnp.ig)
 
-To view my resume [click here](cnpryer.com/Chris-Pryer-Resume.pdf)
+To view my resume <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
