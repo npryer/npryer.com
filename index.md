@@ -1,7 +1,5 @@
 # Chris Pryer
 
-## Socials
-
 - [GitHub](https://github.com/cnpryer)
 - [LinkedIn](https://linkedin.com/in/cnpryer)
 - [Medium](https://cnpryer.medium.com)
