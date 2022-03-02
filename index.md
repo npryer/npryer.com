@@ -1,6 +1,6 @@
 - [GitHub](https://github.com/cnpryer)
 - [LinkedIn](https://linkedin.com/in/cnpryer)
-- [Medium](https://cnpryer.medium.com)
+- [Blog](https://cnpryer.medium.com)
 - [Devpost](https://devpost.com/cnp)
 - [Twitter](https://twitter.com/cnpryer)
 - [Instagram](https://instagram.com/cnp.ig)
