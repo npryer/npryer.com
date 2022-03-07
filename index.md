@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Metrics" src="https://github.com/cnpls/cnpls/blob/master/github-metrics.svg">
+  <img alt="Metrics" src="https://github.com/cnpryer/cnpryer/blob/master/github-metrics.svg">
   
   <a href="https://github.com/cnpryer"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/cnpryer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
