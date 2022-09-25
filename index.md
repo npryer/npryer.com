@@ -1,4 +1,4 @@
-<div align="center">
+
 <a href="https://github.com/cnpryer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/cnpryer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://cnpryer.medium.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -10,6 +10,4 @@
 <br>
   I'm building a <strong>Python package manager</strong> called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong>.
 <br>
-
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
-</div>
