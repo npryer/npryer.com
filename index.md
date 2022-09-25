@@ -6,4 +6,13 @@
 <a href="https://instagram.com/cnp.ig"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 To view my **resume** <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
+
+<hr>
+
+<div align="center">
+
+<a href="https://github.com/cnpryer/huak"><img src="https://github.com/cnpryer/huak/blob/master/docs/assets/img/logo.png" alt="Huak logo" width="200" role="img"></a>
+  
+In my free time I'm building a Python package manager called Huak. [Click here](https://github.com/cnpryer/huak) to check it out.
+</div>
   
