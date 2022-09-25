@@ -11,8 +11,7 @@ To view my **resume** <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target
 
 <div align="center">
 
-<a href="https://github.com/cnpryer/huak"><img src="https://github.com/cnpryer/huak/blob/master/docs/assets/img/logo.png" alt="Huak logo" width="200" role="img"></a>
+<a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="200" role="img"></a>
   
-In my free time I'm building a Python package manager called Huak. [Click here](https://github.com/cnpryer/huak) to check it out.
+In my free time I'm building a Python package manager called Huak. <a href="https://github.com/cnpryer/huak">Click here</a> to check it out.
 </div>
-  
