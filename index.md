@@ -5,16 +5,11 @@
 <a href="https://devpost.com/cnp"><img alt="Hackathons" src="https://img.shields.io/badge/-Hackathons-blue?style=for-the-badge&logo=appveyor"/></a>
 <a href="https://twitter.com/cnpryer"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/cnp.ig"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  
 <br>
-  
-To view my **resume** <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
-
-<hr>
-
 <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="200" role="img"></a>
-  
 <br>
-  
-I'm building a Python package manager called Huak. <a href="https://github.com/cnpryer/huak">Click here</a> to check it out.
+  I'm building a <strong>Python package manager</strong> called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong>.
+<br>
+
+To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
 </div>
