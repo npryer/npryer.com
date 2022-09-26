@@ -1,5 +1,3 @@
-## README
-
 <a href="https://github.com/cnpryer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/cnpryer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://cnpryer.medium.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -16,12 +14,8 @@ Hi 👋 I'm building a <a href="https://en.wikipedia.org/wiki/Package_manager">p
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
 
-### Activity
-
-Check out <a href="https://github.com/users/cnpryer/projects/6">this project board</a> to see what I'm currently working on.
-
 ### Contact
 
-- **Email:** cnpryer@gmail.com
-- **Discord:** cnpryer#6201
-- **Website:** [cnpryer.com](https://cnpryer.com)
+  - **Email:** cnpryer@gmail.com
+  - **Discord:** cnpryer#6201
+  - **Website:** [cnpryer.com](https://cnpryer.com)
