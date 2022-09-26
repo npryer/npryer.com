@@ -16,6 +16,4 @@ To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resum
 
 ## Contact
 
-  - **Email:** cnpryer@gmail.com
-  - **Discord:** cnpryer#6201
-  - **Website:** [cnpryer.com](https://cnpryer.com)
+**Email:** cnpryer@gmail.com
