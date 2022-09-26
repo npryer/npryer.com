@@ -10,11 +10,18 @@
 
 ## About
 
-Hi 👋 I'm building a <a href="https://en.wikipedia.org/wiki/Package_manager">package manager</a> for Python called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong><a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="35" role="img" /></a>.
+Hi 👋 I'm building a <a href="https://en.wikipedia.org/wiki/Package_manager">package manager</a> for Python called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong><a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="35" role="img" /></a>
+
+### Resume
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
 
-## Contact
+### Activity
 
-**Email:** cnpryer@gmail.com
-**Discord:** cnpryer#6201
+Check out <a href="https://github.com/users/cnpryer/projects/6">this project board</a> to see what I'm currently working on.
+
+### Contact
+
+- **Email:** cnpryer@gmail.com
+- **Discord:** cnpryer#6201
+- **Website:** [cnpryer.com](https://cnpryer.com)
