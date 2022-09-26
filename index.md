@@ -6,15 +6,15 @@
 <a href="https://instagram.com/cnp.ig"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br>
 
-## About
+# About
 
 Hi 👋 I'm building a <a href="https://en.wikipedia.org/wiki/Package_manager">package manager</a> for Python called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong><a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="35" role="img" /></a>
 
-### Resume
+## Resume
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
 
-### Contact
+## Contact
 
   - **Email:** cnpryer@gmail.com
   - **Discord:** cnpryer#6201
