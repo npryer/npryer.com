@@ -6,7 +6,7 @@
 <a href="https://twitter.com/cnpryer"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/cnp.ig"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br>
-<a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="200" role="img"></a>
+<a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="200" role="img" align="right"></a>
 <br>
   I'm building a <strong>Python package manager</strong> called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong>.
 <br>
