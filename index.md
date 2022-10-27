@@ -8,7 +8,9 @@
 
 # About
 
-Hi 👋 I'm building a <a href="https://en.wikipedia.org/wiki/Package_manager">package manager</a> for Python called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong><a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="35" role="img" /></a>
+Hi 👋 I'm an engineer who enjoys snowboarding and building software. I like problem solving.
+
+I'm currently working on <a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool for developers that boosts their experience and productivity using the Python programming language.
 
 ## Resume
 
