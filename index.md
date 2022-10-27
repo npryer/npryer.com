@@ -10,7 +10,7 @@
 
 Hi 👋 I'm an engineer who enjoys snowboarding and building software. I like problem solving.
 
-I'm currently working on <a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool for developers that boosts their experience and productivity using the Python programming language.
+I'm currently working on <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool for developers that boosts their experience and productivity using the Python programming language.
 
 ## Resume
 
