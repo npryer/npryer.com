@@ -8,9 +8,9 @@
 
 # About
 
-Hi 👋 I'm an engineer who enjoys snowboarding and building software. I like problem solving.
+Hi 👋 I'm an engineer who enjoys solving problems and building great software. I love to snowboard every winter 🏂.
 
-I'm currently working on <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool for developers that boosts their experience and productivity using the Python programming language.
+One of the projects I'm working on is called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool for developers that can boost their experience and productivity using the Python programming language.
 
 ## Resume
 
