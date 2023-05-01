@@ -9,8 +9,6 @@
 
 Hi 👋 I build and I board 🏂 *\*smile\**
 
-One of the projects I'm working on is called <strong><a href="https://github.com/cnpryer/huak">Huak</a></strong> <a href="https://github.com/cnpryer/huak"><img src="./logo.png" alt="Huak logo" width="20" role="img" /></a>, a Python package manager. It's a tool developers can use to boost their experience and productivity using the Python programming language.
-
 ## Resume
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Chris-Pryer-Resume.pdf" target="_blank">click here</a>.
