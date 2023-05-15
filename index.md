@@ -8,7 +8,7 @@ Hi 👋
 
 ## Resume
 
-To view my <strong>resume</strong> <a href="http://npryer.githubio.com/npryer.com/Nicholas-Pryer-Resume.pdf" target="_blank">click here</a>.
+To view my <strong>resume</strong> <a href="https://npryer.github.io/npryer.com/Nicholas-Pryer-Resume.pdf" target="_blank">click here</a>.
 
 ## Contact
 
